@@ -1,6 +1,9 @@
 # cover-page-design
+
+
 ## AIM:
 To develop a website to display the cover page design of a book
+
 
 ## Design Steps:
 
@@ -11,6 +14,8 @@ Clone the github repository and create book cover page design of a book.
 Write html and CSS code for designing book cover page and execute them.
 
 ## Code:
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
